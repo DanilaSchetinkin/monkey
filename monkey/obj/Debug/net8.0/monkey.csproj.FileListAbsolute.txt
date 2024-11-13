@@ -1,0 +1,14 @@
+C:\Users\Class_Student\source\repos\monkey\monkey\bin\Debug\net8.0\monkey.exe
+C:\Users\Class_Student\source\repos\monkey\monkey\bin\Debug\net8.0\monkey.deps.json
+C:\Users\Class_Student\source\repos\monkey\monkey\bin\Debug\net8.0\monkey.runtimeconfig.json
+C:\Users\Class_Student\source\repos\monkey\monkey\bin\Debug\net8.0\monkey.dll
+C:\Users\Class_Student\source\repos\monkey\monkey\bin\Debug\net8.0\monkey.pdb
+C:\Users\Class_Student\source\repos\monkey\monkey\obj\Debug\net8.0\monkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Class_Student\source\repos\monkey\monkey\obj\Debug\net8.0\monkey.AssemblyInfoInputs.cache
+C:\Users\Class_Student\source\repos\monkey\monkey\obj\Debug\net8.0\monkey.AssemblyInfo.cs
+C:\Users\Class_Student\source\repos\monkey\monkey\obj\Debug\net8.0\monkey.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\source\repos\monkey\monkey\obj\Debug\net8.0\monkey.dll
+C:\Users\Class_Student\source\repos\monkey\monkey\obj\Debug\net8.0\refint\monkey.dll
+C:\Users\Class_Student\source\repos\monkey\monkey\obj\Debug\net8.0\monkey.pdb
+C:\Users\Class_Student\source\repos\monkey\monkey\obj\Debug\net8.0\monkey.genruntimeconfig.cache
+C:\Users\Class_Student\source\repos\monkey\monkey\obj\Debug\net8.0\ref\monkey.dll
